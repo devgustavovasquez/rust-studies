@@ -4,7 +4,7 @@
 
 <br>
 
-If you want to see some of my studies, you can clone this repository and copy some code from folder `algorithms` and paste in [Rust Playground](https://play.rust-lang.org/).
+If you want to see some of my studies, you can clone this repository and run in your machine or copy some code from folder `algorithms` and paste in [Rust Playground](https://play.rust-lang.org/).
 
 <br>
 
